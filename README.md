@@ -4,8 +4,8 @@
 
 <h3 align="center">📫 For learning code and ethical hacking: justinedelatrre@outlook.com</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
 
 <h3 align="left">Connect with me:</h3>
 
