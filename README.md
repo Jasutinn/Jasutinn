@@ -4,10 +4,15 @@
 
 <h3 align="center">📫 For learning code and ethical hacking: justinedelatrre@outlook.com</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasut1n&show_icons=true&locale=en&layout=compact" alt="jasut1n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&locale=en" alt="jasut1n" /></p>
+
+
  <div>
   <a href="https://discord.gg/Emaa6ySpHa">
-  <img align="left" img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="left" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" img height="170em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h3 align="left">Connect with me:</h3>
