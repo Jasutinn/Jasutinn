@@ -37,9 +37,10 @@
 <h3 align="left">Support:</h3>
 
 
-<p><a href="https://www.paypal.com/paypalme/jasut1n"> <img align="left" src="https://seeklogo.com/images/P/paypal-logo-481A2E654B-seeklogo.com.png" height="40" width="40" alt="jasut1n" /> </a> </p>
+<p><a href="https://www.paypal.com/paypalme/jasut1n"> <img align="left" src="https://seeklogo.com/images/P/paypal-logo-481A2E654B-seeklogo.com.png" height="40" width="40" alt="jasut1n"/> </a> </p>
 
-<p><a href="https://ko-fi.com/jasut1n"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasut1n" /> </a> </p>
+<p><a href="https://ko-fi.com/jasut1n"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jasut1n"/> </a> </p>
+
 
 ##
 
