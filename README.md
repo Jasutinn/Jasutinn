@@ -3,7 +3,7 @@
 <h3 align="center">I'm an Cybersecurity Expert and Ethical Hacker.</h3>
 
 <h3 align="center">📫 For learning code and ethical hacking:
-<a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasut1n" height="30" width="40" target="_blank"></a> </h3>
+<a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasut1n" target="_blank"></a> </h3>
 
 ##
 
