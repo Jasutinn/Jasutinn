@@ -7,8 +7,11 @@
  <div>
    <a href="https://discord.gg/Emaa6ySpHa">
     <img align="center" img height="170em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        
-    <img align="center" img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+  <div>
+   <a href="https://discord.gg/Emaa6ySpHa"
+<img align="center" img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ```
