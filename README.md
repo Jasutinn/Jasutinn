@@ -5,14 +5,15 @@
 <h3 align="center">📫 For learning code and ethical hacking: justinedelatrre@outlook.com</h3>
 
 <div>
-<img height="170em" align=right src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://discord.gg/Emaa6ySpHa">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://fb.com/jasut1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasut1n" height="30" width="40" /></a>
+<a href="https://facebook.com/jasut1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasut1n" height="30" width="40" /></a>
 <a href="https://discord.gg/Emaa6ySpHa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emaa6ySpHa" height="30" width="40" /></a>
 </p>
 
