@@ -2,8 +2,7 @@
 
 <h3 align="center">I'm an Cybersecurity Expert and Ethical Hacker.</h3>
 
-<h3 align="center">📫 For learning code and ethical hacking:
-<a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasut1n" target="_blank"></a> </h3>
+<h3 align="center">📫 For learning code and ethical hacking: justinedelatrre@outlook.com</h3>
 
 ##
 
@@ -18,14 +17,10 @@
 
 ##
 
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-##
- 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://facebook.com/jasutincat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasut1n" height="30" width="40" /></a>
+<a href="https://facebook.com/jasut1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasut1n" height="30" width="40" /></a>
 <a href="https://discord.gg/Emaa6ySpHa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emaa6ySpHa" height="30" width="40" /></a>
 </p>
   
@@ -37,8 +32,15 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+##
+
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+##
  
 <h3 align="left">Support:</h3>
+
 
 <p><a href="https://www.paypal.com/paypalme/jasut1n"> <img align="left" src="https://seeklogo.com/images/P/paypal-logo-481A2E654B-seeklogo.com.png" height="40" width="40" alt="jasut1n" /> </a> </p>
 
