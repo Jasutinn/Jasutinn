@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Justine Dela Torre</h1>
+<h1 align="center">I am Justine Dela Torre</h1>
 
 <h3 align="center">I'm an Ethical Hacker and Cybersecurity Expert.</h3>
 
