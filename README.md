@@ -1,6 +1,5 @@
-<h1 align="center">I am Justine Dela Torre</h1>
 
-<h3 align="center">I'm an Software Engineer and Cybersecurity Expert</h3>
+<h2 align="center">I'm an Software Engineer and Cybersecurity Expert</h2>
 
 <h3 align="center">📫 For learning code and ethical hacking: <a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasut1n" target="_blank"></a> </h3>
 
