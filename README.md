@@ -1,14 +1,14 @@
 
 <h2 align="center">I'm an Software Engineer and Cybersecurity Expert</h2>
 
-<h3 align="center">📫 For learning code and ethical hacking: <a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasut1n" target="_blank"></a> </h3>
+<h3 align="center">📫 For learning code and ethical hacking: <a href = "mailto:justinedelatrre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasutinn" target="_blank"></a> </h3>
 
 ##
 
  <div>
   <a href="https://discord.gg/Emaa6ySpHa">
-  <img height="180em" width="1500" src="https://github-readme-stats.vercel.app/api?username=jasut1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="215em" width="1500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasut1n&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="1500" src="https://github-readme-stats.vercel.app/api?username=jasutinn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="215em" width="1500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasutinn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 </div>
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://facebook.com/jasut1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasut1n" height="30" width="40" /></a>
+<a href="https://facebook.com/jasutinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasutinn" height="30" width="40" /></a>
 <a href="https://discord.gg/Emaa6ySpHa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emaa6ySpHa" height="30" width="40" /></a>
 </p>
   
