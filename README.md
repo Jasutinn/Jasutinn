@@ -1,7 +1,7 @@
 
 <h2 align="center">I'm an Machine Learning Researcher and also a Cybersecurity Expert</h2>
 
-<h3 align="center">📫 For robotic project and adv. computer vision: <a href = "mailto:justinevaughnr@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasutinn" target="_blank"></a> </h3>
+<h3 align="center">📫 For robotic(s) project and adv. computer vision: <a href = "mailto:justinevaughnr@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="jasutinn" target="_blank"></a> </h3>
 
 ##
 
